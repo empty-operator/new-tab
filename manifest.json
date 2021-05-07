@@ -1,0 +1,7 @@
+{
+    "name": "New tab clock",
+    "description": "Personalized override of Chrome new tab page.",
+    "version": "0.0",
+    "manifest_version": 2,
+    "chrome_url_overrides": { "newtab": "index.html" }
+}
